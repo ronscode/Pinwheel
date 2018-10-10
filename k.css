@@ -1,8 +1,8 @@
 .loader {
-    border-top: 10px solid #f1f1f1;
-    border-right: none;
-    border-bottom: none;
-    border-left: none;
+    border-top: 10px solid #028090;
+    border-right: 10px solid #028090;
+    border-bottom: 10px solid #028090;
+    border-left: 10px solid #028090;
     border-radius: 50%;
     width: 220px; 
     height: 220px;
@@ -12,10 +12,10 @@
 
 }
 .loader2 {
-    border-bottom: 10px solid #be1010;
-    border-right: none;
-    border-top: none;
-    border-left: none;
+    border-bottom: 10px solid #E4FDE1;
+    border-right: 10px solid #E4FDE1;
+    border-top: 10px solid #E4FDE1;
+    border-left: 10px solid #E4FDE1;
     border-radius: 50%;
     width: 100px; 
     height: 100px;
@@ -27,10 +27,10 @@
 
 }
 .loader3 {
-    border-top: 10px solid #aa10be;
-    border-right: none;
-    border-bottom: none;
-    border-left: none;
+    border-top: 10px solid #F45B69;
+    border-right: 10px solid #F45B69;
+    border-bottom: 10px solid #F45B69;
+    border-left: 10px solid #F45B69;
     border-radius: 50%;
     width: 50px; 
     height: 50px;
@@ -43,23 +43,23 @@
 /** REVERSE LOADER CODE **/
 
 .rloader {
-    border-top: 10px solid #f1f1f1;
-    border-right: none;
+    border-top: 10px solid #BCE784;
+    border-right: 10px solid #BCE784;
     border-bottom: none;
-    border-left: none;
+    border-left: 10px solid #BCE784;
     border-radius: 50%;
     width: 220px; 
     height: 220px;
-    animation: spin2 4s linear infinite;
+    animation: spin2 5s linear infinite;
     font-weight: bold;
     margin: auto;
 
 }
 .rloader2 {
-    border-bottom: 10px solid #be1010;
-    border-right: none;
-    border-top: none;
-    border-left: none;
+    border-bottom: 8px solid #348AA7;
+    border-right: 8px solid #348AA7;
+    border-top: 8px solid #348AA7;
+    border-left: 8px solid #348AA7;
     border-radius: 50%;
     width: 100px; 
     height: 100px;
@@ -71,10 +71,10 @@
 
 }
 .rloader3 {
-    border-top: 10px solid #aa10be;
-    border-right: none;
-    border-bottom: none;
-    border-left: none;
+    border-top: 4px solid #aa10be;
+    border-right: 4px solid #aa10be;
+    border-bottom: 4px solid #aa10be;
+    border-left: 4px solid #aa10be;
     border-radius: 50%;
     width: 50px; 
     height: 50px;
