@@ -156,6 +156,19 @@
     margin: 0px auto;
 
 }
+.mloader6 {
+    border-top: 5px dashed rgb(207, 13, 165);
+    border-right: 5px dashed rgb(189, 20, 34);
+    border-bottom: 5px dashed rgb(207, 13, 165);
+    border-left: 5px dashed rgb(189, 20, 34);
+   
+    width: 5px; 
+    height: 5px;
+    animation: spin 2s alternate infinite;
+    font-weight: bold;
+    margin: 0px auto;
+
+}
 
 @keyframes mspin {
     0% { transform: rotate(0deg); }
