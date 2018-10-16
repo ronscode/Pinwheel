@@ -105,7 +105,6 @@
     border-right: 10px solid rgb(189, 20, 34);
     border-top: 10px solid rgb(189, 20, 34);
     border-left: 10px solid rgb(189, 20, 34);
-    border-radius: 50%;
     width: 180px; 
     height: 180px;
     animation: spin 4s linear infinite;
@@ -134,10 +133,9 @@
     border-right: 10px solid rgb(189, 20, 34);
     border-bottom: 10px solid rgb(189, 20, 34);
     border-left: 10px solid rgb(189, 20, 34);
-    border-radius: 50%;
     width: 100px; 
     height: 100px;
-    animation: spin 7.5s linear infinite;
+    animation: spin 1.5s linear infinite;
     font-weight: bold;
     margin: 0px auto;
 
